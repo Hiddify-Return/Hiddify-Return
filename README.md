@@ -2,8 +2,6 @@
 <h3 align="center">A Hiddify Supporter</h3>
 
 - 🔭 I’m currently working on [dokodemo-tunnel](https://github.com/Hiddifyifreturn/dokodemo-tunnel)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
