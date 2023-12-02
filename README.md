@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Return</h1>
 <h3 align="center">A Hiddify Supporter</h3><br />
 
-- 🔭 I’m currently working on [dokodemo-tunnel](https://github.com/Hiddifyifreturn/dokodemo-tunnel)
+- 🔭 I’m currently working on [dokodemo-tunnel](https://github.com/Hiddifyifreturn/dokodemo-tunnel) and [HAProxy-tunnel](https://github.com/HiddifySupport-Return/HAProxy-tunnel)
 
 - 🌱 I’m currently learning **Python**
 
