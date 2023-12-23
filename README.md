@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Return</h1>
 <h3 align="center">A Hiddify Supporter</h3><br />
 
-- 🔭 I’m currently working on [all-in-one](https://github.com/HiddifySupport-Return/all-in-one)
 
 - 🌱 I’m currently learning **Python**
 
